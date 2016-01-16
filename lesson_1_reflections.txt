@@ -1,0 +1,9 @@
+It helps because you can see directly where there are differences...
+
+
+if you make errors, you can go back to a functional version of your code
+
+manual commits: easier to remember ; logic is human, not automatic;
+       risk of not saving enough...
+
+not the same purpose...
