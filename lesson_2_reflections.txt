@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+a .git directory is added ; you need to make your first commit
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it is a buffer area; it allows to add things progressively until it is ok for a commit
