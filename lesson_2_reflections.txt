@@ -13,3 +13,7 @@ by using git diff --staged command
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when trying new stuf...
+
+How do the diagrams help you visualize the branch structure?
+you can see who depends on who
+
